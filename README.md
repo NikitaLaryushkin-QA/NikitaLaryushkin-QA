@@ -52,7 +52,7 @@
 <img src="" alt="Metabase" width="50" height="50" />
 </a>
 <a href="https://app.clickup.com/">
-<img src="https://assets.stickpng.com/images/629e2529974c5f2c1ceaa622.png" alt="ClickUp" width="50" height="50" />
+<img src="https://github.com/NikitaLaryushkin-QA/NikitaLaryushkin-QA/blob/main/629e2529974c5f2c1ceaa622.png?raw=true" alt="ClickUp" width="50" height="50" />
 </p>
 
 
