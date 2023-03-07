@@ -60,4 +60,4 @@
 
 [![Instagram: nikirrage](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/nikirrage/)
 [![Telegram: nikirrage](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nikirrage)
-[![Website: nikirrage](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://qajenna.com/)
+[![Website: nikirrage](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://nikitalaryushkin-qa.github.io/)
