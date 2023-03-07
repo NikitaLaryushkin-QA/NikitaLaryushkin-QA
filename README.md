@@ -49,7 +49,7 @@
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
 <a href="https://www.metabase.com/">
-<img src="" alt="Metabase" width="50" height="50" />
+<img src="https://github.com/NikitaLaryushkin-QA/NikitaLaryushkin-QA/blob/main/92579335-bc372180-f295-11ea-9620-847a74789193.png?raw=true" alt="Metabase" width="50" height="50" />
 </a>
 <a href="https://app.clickup.com/">
 <img src="https://github.com/NikitaLaryushkin-QA/NikitaLaryushkin-QA/blob/main/629e2529974c5f2c1ceaa622.png?raw=true" alt="ClickUp" width="50" height="50" />
