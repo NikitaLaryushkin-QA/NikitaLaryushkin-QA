@@ -16,7 +16,7 @@
 
 ## Моё скромное портфолио
 
-  -  [Веб визитка](https://github.com/NikitaLaryushkin-QA/CV)
+  -  [Веб визитка](https://nikitalaryushkin-qa.github.io/)
 
 ## Инструменты и технологии которые я использую
 
