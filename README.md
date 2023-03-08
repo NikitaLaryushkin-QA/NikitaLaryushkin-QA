@@ -13,7 +13,7 @@
 
 ## Мой CV 
 
-[Здесь будет ссылка на мое резюме](https://hh.ru/resume/f173e486ff079ee27f0039ed1f6e7533494746?customDomain=1)
+[Резюме на HH](https://hh.ru/resume/f173e486ff079ee27f0039ed1f6e7533494746?customDomain=1)
 
 ## Моё скромное портфолио
 
