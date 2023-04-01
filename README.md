@@ -16,7 +16,7 @@
   -  [Резюме на HH](https://hh.ru/resume/f173e486ff079ee27f0039ed1f6e7533494746?customDomain=1)
 
 ## Моё скромное портфолио
-
+  -  [Телеграмм бот](https://t.me/niki_rage_bot)
   -  [Веб визитка](https://nikitalaryushkin-qa.github.io/)
 
 ## Инструменты и технологии
